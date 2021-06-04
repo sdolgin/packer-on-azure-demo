@@ -6,6 +6,8 @@ Choose PowerShell for the preferred shell and simply run the following:
 
 ```
 git clone https://github.com/sdolgin/packer-on-azure-demo.git
+cd packer-on-azure-demo
+code .
 ```
 
 Define the PS variables at the top of the PS1 script file and follow instruction through the inline comments. 
