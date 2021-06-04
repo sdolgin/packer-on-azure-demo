@@ -16,3 +16,4 @@ Define the PS variables at the top of setup-packer-demo.ps1 and save the file (C
 ./setup-packer-demo.ps1
 ```
 
+Once complete, you will have a freshly published custom VM image with nginx installed & a powered-on VM instance with nginx running. You can test that nginx is responding by pasting the public IP address of the VM into a new browser tab. 
