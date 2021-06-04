@@ -10,5 +10,9 @@ cd packer-on-azure-demo
 code .
 ```
 
-Define the PS variables at the top of the PS1 script file and follow instruction through the inline comments. 
+Define the PS variables at the top of the setup-packer-demo.ps1 and save the file (Ctrl+S) 
+
+```
+./setup-packer-demo.ps1
+```
 
